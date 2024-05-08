@@ -4,5 +4,6 @@ public class FirstClass2Team{
         System.out.println("這是用來練習Github協作的程式!");
         System.out.println("學號：\"01157008\"\n姓名：\"蔡秉杰\"");
         System.out.println("學號：\"01157045\"\n姓名：\"唐予安\"");
+        System.out.println("學號：\"01157033\"\n姓名：\"洪天磊\"");
     }
 }
